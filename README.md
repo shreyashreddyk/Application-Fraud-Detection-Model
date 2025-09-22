@@ -11,18 +11,17 @@ The final XGBoost model successfully identifies **60% of fraudulent applications
 ### **Table of Contents**
 1.  [Project Overview](#project-overview)
 2.  [Key Results](#key-results)
-3.  [Repository Structure](#repository-structure)
-4.  [Methodology & Technical Details](#methodology--technical-details)
+3.  [Methodology & Technical Details](#methodology--technical-details)
     - [Data Quality Assessment](#1-data-quality-assessment)
     - [Data Cleaning & Preprocessing](#2-data-cleaning--preprocessing)
     - [Feature Engineering](#3-feature-engineering)
     - [Feature Selection](#4-feature-selection)
     - [Model Exploration & Selection](#5-model-exploration--selection)
     - [Final Model & Performance](#6-final-model--performance)
-5.  [Financial Impact Analysis](#financial-impact-analysis)
-6.  [Professional Reports](#professional-reports)
-7.  [Key Skills Demonstrated](#key-skills-demonstrated)
-8.  [How to Run](#how-to-run)
+4.  [Financial Impact Analysis](#financial-impact-analysis)
+5.  [Professional Reports](#professional-reports)
+6.  [Key Skills Demonstrated](#key-skills-demonstrated)
+7.  [How to Run](#how-to-run)
 
 ---
 
